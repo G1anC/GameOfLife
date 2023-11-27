@@ -1,0 +1,6 @@
+*.o
+vgcore.*
+.vscode/
+*.json
+project_name
+forbidden_functions(array_tok.c, exitErr.c)
